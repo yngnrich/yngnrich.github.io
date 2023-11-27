@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yngnrich.github.io/al-folio/sitemap.xml
+Sitemap: https://yngnrich.github.io/blog/sitemap.xml
